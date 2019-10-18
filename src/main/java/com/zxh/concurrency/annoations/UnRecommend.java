@@ -6,10 +6,10 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 用来标记【推荐】的类、方法的写法
+ * 用来标记【不推荐】的类、方法的写法
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.SOURCE)
-public @interface Recommend {
+public @interface UnRecommend {
     String value() default "";
 }
