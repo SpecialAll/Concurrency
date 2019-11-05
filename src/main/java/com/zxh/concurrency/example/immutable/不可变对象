@@ -1,0 +1,3 @@
+有两种不可变对象：
+    1、Collections.unmodifiableXXX
+    2、com.google.common.collect.ImmutableXXX

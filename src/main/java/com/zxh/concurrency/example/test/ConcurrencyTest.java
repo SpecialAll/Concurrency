@@ -1,4 +1,4 @@
-package com.zxh.concurrency.test;
+package com.zxh.concurrency.example.test;
 
 import java.util.concurrent.*;
 
