@@ -1,0 +1,4 @@
+线程不安全类包含：
+    1、StringBuilder ——> StringBuffer
+    2、SimpleDateTimeFormatter  ——> DateTimeFormatter
+    3、ArrayList HashSet
